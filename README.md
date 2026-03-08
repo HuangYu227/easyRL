@@ -1,1 +1,1 @@
-学习蘑菇书的一些笔记+实现代码
+Chinese-speaking RL beginners often lack resources that combine learning notes, minimal working implementations, and reproducible experiment paths in one place. This repository is designed for Chinese-speaking beginners and provides notes, minimal implementations, and reproducible experiments covering MDPs, tabular methods, policy gradients, DQN, and PPO, helping learners understand and practice reinforcement learning in a more systematic way.
